@@ -14,7 +14,7 @@ I am a Software Developer who is studying a BTech in Computer and Communication 
 [![Gmail](https://img.shields.io/static/v1?label=Rohith&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:tanukusai.sai52@gmail.com)
 [![Work](https://img.shields.io/static/v1?label=Rohith&message=%20&color=blue&logo=microsoft&style=flat-square&logoColor=white)](mailto:tanuku.sairohith@learner.manipal.edu)
 
-    19 year old Developer.
+   19 year old Developer.
  
 👨‍🎓 Studying Computer and Communication Engineering.
 
