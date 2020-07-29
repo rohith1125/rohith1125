@@ -20,8 +20,15 @@ I am a Software Developer who is studying a BTech in Computer and Communication 
 
 🚧 *Current Project:* **Confidential.**
 
+
+   
+   
 <a href="https://medium.com/@tanukusai.sai52" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://github.com/rohith1125" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+
+
+**My Favorite Softwares and Skills:**  *Find them from the header image 😝.*
+
 
 <a href="https://github.com/rohith1125/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith1125&layout=compact&theme=light" />
