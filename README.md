@@ -7,7 +7,7 @@
 
 
 
-I am a Software Engineer who is studying a Bachelor of Techchnology in Computer and Communication Engineering
+I am a Software Engineer who is studying a B.Tech degree in Computer and Communication Engineering
 👨‍💻.
 
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohith.salvatore/)
