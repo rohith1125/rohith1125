@@ -19,7 +19,7 @@ I am a Software Developer who is studying a BTech in Computer and Communication 
 👨‍🎓 Studying Computer and Communication Engineering.
 
 📷    Photography Enthusiast. 
-[![Photography Page](https://img.shields.io/static/v1?label=PhotographyPage&message=%20&color=navy&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/pixelsquare_studios/)
+[![Photography Page](https://img.shields.io/badge/-INSTAGRAM-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pixelsquare_studios/)
 
 🚧 *Current Project:* **Confidential.**
 
