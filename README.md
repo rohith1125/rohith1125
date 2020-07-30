@@ -10,7 +10,7 @@
 I am a Software Developer who is studying a BTech in Computer and Communication Engineering
 👨‍💻.
 
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/rohith.salvatore/)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohith.salvatore/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanukusai.sai52@gmail.com)
 [![Work](https://img.shields.io/static/v1?label=Rohith&message=%20&color=blue&logo=microsoft&style=flat-square&logoColor=white)](mailto:tanuku.sairohith@learner.manipal.edu)
 
