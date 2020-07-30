@@ -59,7 +59,6 @@ while(alive)
 
 
 
-<a href="https://github.com/rohith1125" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>
 
 
 
