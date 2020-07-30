@@ -54,3 +54,16 @@ while(alive)
 ```
 
 [![Spotify](https://novatorem.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31uwc2fhyb6dzc4basycocph6hfu?si=_9-3EUbHS5Sm_wpL5MxgBg)
+
+
+
+
+
+<a href="https://github.com/rohith1125" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>
+
+
+
+
+
+
+
