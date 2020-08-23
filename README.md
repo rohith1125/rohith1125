@@ -53,7 +53,8 @@ while(alive)
 }
 ```
 
-[![Spotify](https://novatorem.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31uwc2fhyb6dzc4basycocph6hfu?si=_9-3EUbHS5Sm_wpL5MxgBg)
+
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rohith1125 Spotify Playing" width="350" />
 
 
 
