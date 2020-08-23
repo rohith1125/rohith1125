@@ -54,7 +54,7 @@ while(alive)
 ```
 
 
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rohith1125 Spotify Playing" width="350" />
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rohith1125 Spotify Playing" width="350" onclick="return false;"/>
 
 
 
