@@ -3,7 +3,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=rohith1125&show_icons=true">
 
-# Hi there I'm Rohith,👨‍💻
+# Hi there I'm Rohith,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
