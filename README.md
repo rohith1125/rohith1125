@@ -17,7 +17,6 @@ CS Student
 [![LinkedIn](https://img.shields.io/badge/-OUTLOOK-0077B5?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:someone@outlook.com)
 
 
-
 <a href="https://www.codewars.com" target="_blank"><img alt="CodeWars" src="https://www.codewars.com/users/rohith1125/badges/large" /></a>
 
 
@@ -32,6 +31,9 @@ CS Student
    
 <a href="https://medium.com/@tanukusai.sai52" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://github.com/rohith1125" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+
+
+
 
 
  <img align='right' src="https://github-readme-stats.vercel.app/api?username=rohith1125&show_icons=true">
