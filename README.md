@@ -1,7 +1,8 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=rohith1125&show_icons=true">
+
+ <img align="right" alt="GIF" src="https://github.com/rohith1125/rohith1125/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 # Hi there I'm Rohith,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -31,6 +32,9 @@ CS Student
    
 <a href="https://medium.com/@tanukusai.sai52" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://github.com/rohith1125" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+
+
+ <img align='right' src="https://github-readme-stats.vercel.app/api?username=rohith1125&show_icons=true">
 
 
 **My Favorite Softwares and Skills:**  *Find them from the header image 😝.*
