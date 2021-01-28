@@ -7,9 +7,9 @@
 # Hi there I'm Rohith,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-
-I am a Software Engineer who is studying a B.Tech in Computer and Communication Engineering
+CS Student
 👨‍💻.
+
 
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohith.salvatore/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanukusai.sai52@gmail.com)
@@ -19,9 +19,6 @@ I am a Software Engineer who is studying a B.Tech in Computer and Communication 
 
 <a href="https://www.codewars.com" target="_blank"><img alt="CodeWars" src="https://www.codewars.com/users/rohith1125/badges/large" /></a>
 
-   19 year old Developer.
- 
-👨‍🎓 Studying Computer and Communication Engineering.
 
 📷    Photography Enthusiast. 
 [![Photography Page](https://img.shields.io/badge/-PixelSquareStudios-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pixelsquare_studios/)
@@ -39,9 +36,7 @@ I am a Software Engineer who is studying a B.Tech in Computer and Communication 
 **My Favorite Softwares and Skills:**  *Find them from the header image 😝.*
 
 
-<a href="https://github.com/rohith1125/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith1125&layout=compact&theme=light" />
-</a>
+
 
 
 ```C
