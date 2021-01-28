@@ -5,7 +5,7 @@
  <img align="right" alt="GIF" src="https://github.com/rohith1125/rohith1125/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-# Hi there I'm Rohith,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there I'm Rohith,<img src="https://github.com/rohith1125/rohith1125/blob/master/wave.gif" width="30px">
 
 
 CS Student
