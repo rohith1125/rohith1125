@@ -2,7 +2,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
- <img align="right" alt="GIF" src="https://github.com/rohith1125/rohith1125/blob/master/code.gif?raw=true" width="400" height="200" />
+ <img align="right" alt="GIF" src="https://github.com/rohith1125/rohith1125/blob/master/code.gif?raw=true" width="400" height="250" />
 
 
 # Hi there I'm Rohith,<img src="https://github.com/rohith1125/rohith1125/blob/master/wave.gif" width="30px">
