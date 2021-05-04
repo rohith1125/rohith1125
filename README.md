@@ -29,7 +29,7 @@ CS Student
 
    
    
-<a href="https://medium.com/@tanukusai.sai52" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://rohithcodes.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://github.com/rohith1125" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 
@@ -37,7 +37,10 @@ CS Student
 
 
  <img align='right' src="https://github-readme-stats.vercel.app/api?username=rohith1125&show_icons=true">
-
+ <!---
+ 
+ <img align='bottom' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith1125&layout=compact&theme=light" />
+--->
 
 **My Favorite Softwares and Skills:**  *Find them from the header image 😝.*
 
@@ -69,9 +72,9 @@ while(alive)
 <!---<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rohith1125&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith1125&layout=compact&theme=cobalt" />
-</p>--->
+</p>
 
-
+--->
 
 
 
