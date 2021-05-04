@@ -21,7 +21,7 @@ CS Student
 
 
 📷    Photography Enthusiast. 
-[![Photography Page](https://img.shields.io/badge/-PixelSquareStudios-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pixelsquare_studios/)
+[![Photography Page](https://img.shields.io/badge/-iam_anotherphotographer-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam_anotherphotographer/)
 
 🚧 *Current Project:* **Confidential.**
 
