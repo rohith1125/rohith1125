@@ -158,7 +158,9 @@ while(alive)
 [![Jasmine](https://img.shields.io/badge/Jasmine%20-%238A4182.svg?&style=for-the-badge&logo=Jasmine&logoColor=FFFFFF)](https://jasmine.github.io/)
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)](https://www.adobe.com/ca/products/photoshop.html)--->
 
+**Visitor Count**  (March 04, 2021 onwards)
 
+![Visitor Count](https://profile-counter.glitch.me/{rohith1125}/count.svg)
 
 
 
