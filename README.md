@@ -20,8 +20,7 @@ CS Student
 <a href="https://www.codewars.com" target="_blank"><img alt="CodeWars" src="https://www.codewars.com/users/rohith1125/badges/large" /></a>
 
 
-📷    Photography Enthusiast. 
-[![Photography Page](https://img.shields.io/badge/-iam_anotherprogrammer-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam_anotherprogrammer/)
+
 
 🚧 *Current Project:* **Confidential.**
 
@@ -35,9 +34,9 @@ CS Student
 
 
 
-
- <img align='right' src="https://github-readme-stats.vercel.app/api?username=rohith1125&show_icons=true">
  <!---
+ <img align='right' src="https://github-readme-stats.vercel.app/api?username=rohith1125&show_icons=true">
+
  
  <img align='bottom' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith1125&layout=compact&theme=light" />
 --->
@@ -49,22 +48,11 @@ CS Student
 
 
 ```C
-#include<life.h>
-int main()
-{
-int alive;
-while(alive)
-{
- eat();
- sleep();
- Code();
- Repeat();
- }
-}
+while(age++ < life.length) ++knowledge;
 ```
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohith1125" alt="rohith1125" /></p>--->
 
-
+<!---
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rohith1125 Spotify Playing" width="350" onclick="return false;"/>
 
 
@@ -92,7 +80,7 @@ while(alive)
 
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohith1125&theme=gruvbox"></img>
+    <img src="https://github-profile-trophy.vercel.app/?username=rohith1125&theme=onedark&no-bg=true&rank=-C,-B"></img>
 </p>
 
 
