@@ -10,7 +10,7 @@ I work across **backend systems, distributed systems, AI/ML infrastructure and s
 
 ```console
 ● sai-rohith.service - Software Engineer @ IBM
-     Loaded: loaded (/etc/boston-ma/sai-rohith.service; enabled; preset: curious)
+     Loaded: loaded (/etc/boston/sai-rohith.service; enabled; preset: curious)
      Active: active (running) since Sep 2026
        Docs: https://rohith1125.github.io/portfolio/
    Main PID: 1125 (c++ · python · go · typescript · java)
@@ -21,32 +21,41 @@ I work across **backend systems, distributed systems, AI/ML infrastructure and s
              └─ remote
 
 boston sai-rohith[1125]: accepting connections for:
-boston sai-rohith[1125]:   Software Engineer · Backend Engineer · Distributed Systems Engineer
-boston sai-rohith[1125]:   Machine Learning / AI Engineer · Security Engineer
+boston sai-rohith[1125]:   Software Engineer · Backend Engineer
+boston sai-rohith[1125]:   Distributed Systems Engineer · Security Engineer
+boston sai-rohith[1125]:   Machine Learning / AI Engineer
 ```
 
 ## Experience · `git log --graph career`
 
 ```text
 * (HEAD -> ibm) Software Engineer, IBM · 2026 to now
-|   feat: extend C++ network-protocol parsers and SQL grammars to new database platforms
-|   debug: wire-protocol failures from tcpdump captures, reproduced in Podman on live DBs
-|   chore: automate security-policy groups from declarative YAML (500+ definitions)
-|   fix: SAST / SCA / DAST findings (SonarQube, Mend, OWASP ZAP), fixed for real, not suppressed
+|   feat:  extend C++ network-protocol parsers and SQL grammars
+|          to new database platforms
+|   debug: wire-protocol failures from tcpdump captures,
+|          reproduced in Podman against live databases
+|   chore: automate security-policy groups from declarative YAML
+|          (500+ definitions)
+|   fix:   SAST / SCA / DAST findings (SonarQube, Mend, OWASP ZAP),
+|          fixed for real, never suppressed
 |
-* (chieac) Software Engineer, Chicago Education Advocacy Cooperative · 2025 to 2026
-|   feat: RAG pipelines (-41% hallucinated answers), LoRA fine-tuning, backend microservices
+* (chieac) Software Engineer, Chicago Education Advocacy Cooperative
+|   2025 to 2026
+|   feat:  RAG pipelines (-41% hallucinated answers), LoRA fine-tuning,
+|          backend microservices
 |
 * (pitt) Graduate Teaching Assistant, University of Pittsburgh · 2024 to 2025
-|   test: Python autograder suites for a Coursera data science program (-30% grading work)
-|   docs: mentored 140+ graduate students
+|   test:  Python autograder suites for a Coursera data science program
+|          (-30% grading work)
+|   docs:  mentored 140+ graduate students
 |
 * (eaisb) Data and cloud engineering, EAISB
-|   feat: PySpark ETL pipelines; OCI SDK automation for on-prem to Oracle Cloud VM migration
+|   feat:  PySpark ETL pipelines; OCI SDK automation for on-prem
+|          to Oracle Cloud VM migration
 |
 * (l&t) ML Intern, L&T Technology Services · 2022
-    init: object detection on satellite imagery (YOLO, RetinaNet, EfficientDet in PyTorch)
-          and LiDAR point clouds of 500M+ points
+    init:  object detection on satellite imagery (YOLO, RetinaNet,
+           EfficientDet) and LiDAR point clouds of 500M+ points
 ```
 
 ## Projects
@@ -66,7 +75,8 @@ I write grammars for SQL dialects at work, so here's the one I run on:
 
 ```ebnf
 engineer   ::= curiosity , { build , ship , test } ;
-build      ::= "protocol parsers" | "distributed backends" | "AI agents" | "security tooling" ;
+build      ::= "protocol parsers" | "distributed backends"
+             | "AI agents" | "security tooling" ;
 ship       ::= "C++" | "Python" | "Go" | "TypeScript" | "Java" ;
 test       ::= "until the fix is real, not suppressed" ;
 curiosity  ::= ? opens the packet capture before the ticket ? ;
@@ -83,12 +93,12 @@ curiosity  ::= ? opens the packet capture before the ticket ? ;
 ## Self-audit · `zap-baseline.py -t rohith1125`
 
 ```console
-PASS: Ships tests with the code (Forge alone has 515) ........................ [10010]
-PASS: Fixes scanner findings for real instead of suppressing them ............ [10011]
-PASS: Reads the packet capture before filing the ticket ...................... [10012]
-PASS: Stays calm 500M points deep in a LiDAR cloud ........................... [10013]
-WARN-NEW: Tends to turn side projects into MCP servers ....................... [10014]
-WARN-NEW: Built a pixel pet that watches Claude Code work .................... [10015]
+PASS: Ships tests with the code (Forge alone has 515) .................. [10010]
+PASS: Fixes scanner findings for real instead of suppressing them ...... [10011]
+PASS: Reads the packet capture before filing the ticket ................ [10012]
+PASS: Stays calm 500M points deep in a LiDAR cloud ..................... [10013]
+WARN-NEW: Tends to turn side projects into MCP servers ................. [10014]
+WARN-NEW: Built a pixel pet that watches Claude Code work .............. [10015]
 FAIL-NEW: 0   WARN-NEW: 2   INFO: 0   IGNORE: 0   PASS: 4
 ```
 
