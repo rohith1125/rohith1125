@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="304" viewBox="0 0 860 304" role="img" aria-labelledby="t">
+<title id="t">A tcpdump capture that decodes to: Sai Rohith Tanuku, Software Engineer at IBM. Backend, distributed systems, AI/ML and security. C++, Python, Go, TypeScript, Java. Based in Boston, MA, open to Seattle, the Bay Area or remote.</title>
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#bc8cff"/></linearGradient>
+<clipPath id="type"><rect x="20" y="46" width="0" height="22"><set attributeName="width" to="0" begin="loop.begin"/><animate attributeName="width" values="0.0;7.8;15.6;23.5;31.3;39.1;46.9;54.7;62.6;70.4;78.2;86.0;93.8;101.7;109.5;117.3;125.1;132.9;140.8;148.6;156.4;164.2;172.0;179.9;187.7;195.5;203.3;211.1;219.0;226.8;234.6;242.4;250.2;258.1;265.9;273.7;281.5;289.3;297.2;305.0;312.8;320.6;328.4;336.3;344.1;351.9;359.7;367.5" calcMode="discrete" begin="loop.begin+0.5s" dur="1.5s" fill="freeze"/></rect></clipPath>
+</defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:13px;fill:#8b949e;white-space:pre}
+.w{fill:#e6edf3}.g{fill:#3fb950}.y{fill:#d29922}.b{fill:#58a6ff}.m{fill:#f778ba}.d{fill:#6e7681}
+.name{font-size:25px;font-weight:700;fill:url(#g);letter-spacing:3px}
+.sub{font-size:14.5px;fill:#e6edf3}
+</style>
+<rect width="860" height="304" fill="none"><animate id="loop" attributeName="x" from="0" to="0" begin="0s;loop.end" dur="13s"/></rect>
+<rect x="0.5" y="0.5" width="859" height="303" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M12.5 0.5h835a12 12 0 0 1 12 12v21.5h-859v-21.5a12 12 0 0 1 12-12z" fill="#161b22"/>
+<line x1="0.5" y1="34" x2="859.5" y2="34" stroke="#30363d"/>
+<circle cx="22" cy="17" r="6" fill="#ff5f57"/><circle cx="42" cy="17" r="6" fill="#febc2e"/><circle cx="62" cy="17" r="6" fill="#28c840"/>
+<text x="430.0" y="21" text-anchor="middle" class="d">rohith1125 — tcpdump — eth0</text>
+<text x="22" y="60" class="w" clip-path="url(#type)"><tspan class="g">$</tspan> sudo tcpdump -i eth0 -A 'dst host rohith1125'</text>
+<text x="22" y="80" opacity="0" class="d">tcpdump: listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes<set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+2.3s"/></text>
+<text x="22" y="102" opacity="0" class="">01:48:02.114 IP recruiter.52814 &gt; rohith1125.https: Flags <tspan class="y">[S]</tspan>, seq 1125, win 64240<set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+2.9s"/></text>
+<text x="22" y="122" opacity="0" class="">01:48:02.131 IP rohith1125.https &gt; recruiter.52814: Flags <tspan class="y">[S.]</tspan>, seq 2026, ack 1126<set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+3.3s"/></text>
+<text x="22" y="142" opacity="0" class="">01:48:02.132 IP recruiter.52814 &gt; rohith1125.https: Flags <tspan class="b">[.]</tspan>, ack 2027<set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+3.6s"/></text>
+<text x="22" y="162" opacity="0" class="">01:48:02.140 IP rohith1125.https &gt; recruiter.52814: Flags <tspan class="m">[P.]</tspan>, length 1125: <tspan class="g">HTTP/1.1 200 OK</tspan><set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+4.1s"/></text>
+<g opacity="0"><set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+4.7s"/>
+<rect x="22" y="180" width="3" height="76" rx="1.5" fill="url(#g)"/>
+<text x="38" y="204" class="name">SAI ROHITH TANUKU</text>
+<text x="38" y="229" class="sub">software engineer @ IBM  ·  backend · distributed systems · AI/ML · security</text>
+<text x="38" y="251">C++ · Python · Go · TypeScript · Java   ·   Boston, MA <tspan class="b">→</tspan> Seattle · Bay Area · remote</text>
+</g>
+<text x="22" y="286" opacity="0" class="w"><tspan class="g">$</tspan> <set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+5.3s"/></text>
+<rect x="40" y="275" width="8" height="15" fill="#e6edf3" opacity="0"><set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+5.3s"/><animate attributeName="fill-opacity" values="1;0" calcMode="discrete" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
